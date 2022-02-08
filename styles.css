@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: Tomato;
+}
+
+h1{
+  Padding: 10px;
+  font-family: Papyrus;
+  color: #365c00;
+}
+
+h2 {
+  Padding: 15px;
+  font-family: Papyrus;
+  color: #365c00;
+}
+p{
+  Padding: 15px;
+  font-family: Papyrus;
+  color: #365c00;
+}
+
+.parent{
+  text-align: center;
+}
+
+.child{
+  display: inline-block;
+  padding: 20px;
+  border: 2px solid gold;
+}
+
+.parent2{
+  text-align: center;
+}
+.child2{
+  display: inline-block;
+  border: 2px solid gold;
+}
