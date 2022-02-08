@@ -45,3 +45,13 @@ p{
   display: inline-block;
   border: 2px solid gold;
 }
+
+a:link {
+  color:#365c00;
+  font-family: Papyrus;
+  margin:50px;
+}
+
+a:hover{
+  color: orange;
+}
